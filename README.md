@@ -28,4 +28,4 @@ Run Locally
 
 4. Open your browser and visit:  http://localhost:3000
 
-💚 Created with love by Rekha Biju
+
